@@ -1,0 +1,186 @@
+*{
+    font-family: 'Synonym', sans-serif;
+font-family: 'Chillax', sans-serif;
+}
+
+:root{
+    --darkgreen: #5a572a;
+    --cactus: #ada851;
+    --lightgreen: #ccd4a4;
+    --kiwi: #d4d1a3;
+}
+.bggradient{
+    background: linear-gradient(var(--kiwi), var(--lightgreen) );
+}
+.bgdarkgreen{
+    background-color:var(--darkgreen) ;
+}
+.bgcactus{
+    background-color: var(--cactus);
+}
+.bglightgreen{
+    background-color: var(--lightgreen);
+}
+.bgkiwi{
+    background-color: var(--kiwi);
+}
+
+.colordarkgreen{
+    background-color:var(--darkgreen) ;
+}
+.colorcactus{
+    background-color: var(--cactus);
+}
+.colorlightgreen{
+    background-color: var(--lightgreen);
+}
+.colorkiwi{
+    background-color: var(--kiwi);
+}
+
+.logocarrellone{
+    height: 5vh;
+}
+.scrollingnavbar{
+    margin: 20px;
+    border-radius: 50px;
+    backdrop-filter: blur(5px) saturate(200%);
+    -webkit-backdrop-filter: blur(5px) saturate(100%);
+    background-color: rgba(255, 255, 255, 0.45);
+    border-radius: 12px;
+    border: 1px solid rgba(209, 213, 219, 0.3);
+}
+.navbar{
+    transition: 1s;
+    height: 10vh;
+}
+.mainheader{
+    height: 80vh;
+    margin-top: 10vh;
+    padding: 10vh;
+    display: flex;
+    color: #5a572a;
+    justify-content: space-between;}
+header>img{
+    max-width: 60vw;
+    max-height: 100vh;
+}
+.headercontent{
+    height: 35vh;
+}
+.acquistaheader{
+    margin-top: 10vh;
+    padding: 10vh;
+    display: flex;
+    color: #5a572a;
+    justify-content: space-between; 
+}
+.calltoaction{
+    padding: 2.5vh;
+    font-size: x-large;
+    font-weight: 700 ;
+    border-radius: 50px;
+    background-color: #5a572a;
+    color: rgb(239, 247, 239);
+    width: 20vh;
+    border: none;
+}
+.cardsection{
+    display: flex;
+    padding: 10vh;
+    justify-content: space-between;
+}
+.cardcustom{
+    background-color: #b9b777;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 50vh;
+    width: 50vh;
+    padding: 1.25vh;
+    border-radius: 50px;
+    align-items: center;
+    backdrop-filter: blur(0px); border-radius: 50px; box-shadow: 35px 35px 68px 0px rgba(83, 111, 83, 0.5), inset -5px -5px 16px 0px rgba(83, 111, 83, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+}
+.cardcustom > img{
+width: 50%;
+
+}
+.headercontent>img{
+    height: 50vh;
+    width: 50vh;
+}
+.imgcactus{
+    height: 50vh;
+    width: 50vh;
+}
+.annunciocarta{
+    color: #5a572a;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding: 1.25vh;
+    margin: 2.5vh;
+    backdrop-filter: blur(0px); 
+    background-color: rgb(231, 236, 229); 
+    border-radius: 1.25vh;
+}
+.titolocarta{
+    font: xx-large;
+    color: #343218;
+}
+.categoriacarta{
+    text-decoration: underline;
+}
+.prezzocarta{
+    font-size: x-large;
+    font-weight: 600;
+    color: #524f24;
+}
+#cercabottone{
+    cursor: pointer;
+}
+.sezionerevisione{
+ padding: 10vh;
+    
+}
+
+/* carosello */
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 20vh;
+    border-radius: 25px;
+  }
+
+  /* .swiper-slide img {
+    display: block;
+    width: 100%;
+  } */
+
+  .revisionecarta{
+    padding: 1.25vh;
+    color: #5a572a;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    backdrop-filter: blur(5px);
+    background-color: rgb(231, 236, 229); 
+    border-radius: 25px; box-shadow: 35px 35px 68px 0px rgba(145, 192, 255, 0.5), inset -5px -5px 16px 0px rgba(145, 192, 255, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+  }
+  .radiocategoria{
+    background-color: #b9b777 !important;
+  }
+
+  .categorieacc{
+    background-color: #ada851 !important;
+        
+  }

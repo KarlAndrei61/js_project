@@ -1,0 +1,292 @@
+[
+    {
+        "id":1,
+        "name": "Fiat",
+        "category": "Neopatentato",
+        "price": "5300"
+    },
+    {
+        "id": 2,
+        "name": "Dacia",
+        "category": "Neopatentato",
+        "price": "2200"
+    },
+    {
+        "id": 3,
+        "name": "Ford",
+        "category": "Suv",
+        "price": "21000"
+    },
+    {
+        "id": 4,
+        "name": "Range Rover",
+        "category": "Van",
+        "price": "38000"
+    },
+    {
+        "id": 5,
+        "name": "Mclaren",
+        "category": "Lusso",
+        "price": "350000"
+    },
+    {
+        "id": 6,
+        "name": "BMW",
+        "category": "Van",
+        "price":"34000"
+    },
+    {
+        "id": 7,
+        "name": "Mercedez-Benz",
+        "category": "Lusso",
+        "price":"310000"
+    },
+    {
+        "id": 8,
+        "name": "Dacia",
+        "category": "Van",
+        "price": "19000"
+    },
+    {
+        "id": 9,
+        "name": "Mazda",
+        "category": "Neopatentato",
+        "price": "2500"
+    },
+    {
+        "id": 10,
+        "name": "Ford",
+        "category": "Suv",
+        "price": "12500"
+    },
+    {
+        "id": 11,
+        "name": "Honda",
+        "category": "Lusso",
+        "price": "24000"
+    },
+    {
+        "id": 12,
+        "name": "Toyota",
+        "category": "Van",
+        "price": "34000"
+    },
+    {
+        "id": 13,
+        "name": "Toyota",
+        "category": "Neopatentato",
+        "price": "12000"
+    },
+    {
+        "id": 14,
+        "name": "Lamborghini",
+        "category": "Suv",
+        "price": "190000"
+    },
+    {
+        "id": 15,
+        "name": "Mazda",
+        "category": "Lusso",
+        "price": "24000"
+    },
+    {
+        "id": 16,
+        "name": "Tesla",
+        "category": "Van",
+        "price": "45000"
+    },
+    {
+        "id": 17,
+        "name": "Cupra",
+        "category": "Neopatentato",
+        "price": "12000"
+    },
+    {
+        "id": 18,
+        "name": "BMW",
+        "category": "Suv",
+        "price": "140000"
+    },
+    {
+        "id": 19,
+        "name": "Tesla",
+        "category": "Lusso",
+        "price": "250000"
+    },
+
+    {
+        "id": 21,
+        "name": "Mazda",
+        "category": "Neopatentato",
+        "price": "2500"
+    },
+    {
+        "id": 22,
+        "name": "Chevrolet",
+        "category": "Suv",
+        "price": "16000"
+    },
+    {
+        "id": 23,
+        "name": "Mercedez-Benz",
+        "category": "Lusso",
+        "price": "45000"
+    },
+    {
+        "id": 24,
+        "name": "Mclaren",
+        "category": "Van",
+        "price": "400000"
+    },
+    {
+        "id": 25,
+        "name": "Mini Cooper",
+        "category": "Neopatentato",
+        "price": "2500"
+    },
+    {
+        "id": 26,
+        "name": "Fiat",
+        "category": "Suv",
+        "price": "15000"
+    },
+    {
+        "id": 27,
+        "name": "Bentley",
+        "category": "Lusso",
+        "price": "450000"
+    },
+    {
+        "id": 28,
+        "name": "Dacia",
+        "category": "Van",
+        "price": "4500"
+    },
+    {
+        "id": 29,
+        "name": "Opel",
+        "category": "Neopatentato",
+        "price": "3600"
+    },
+    {
+        "id": 30,
+        "name": "Citroen",
+        "category": "Suv",
+        "price": "7500"
+    },
+    {
+        "id": 31,
+        "name": "Cupra",
+        "category": "Lusso",
+        "price": "120000"
+    },
+    {
+        "id": 32,
+        "name": "Mazda",
+        "category": "Van",
+        "price": "10400"
+    },
+    {
+        "id": 33,
+        "name": "Dodge Charger",
+        "category": "Lusso",
+        "price": "46000"
+    },
+    {
+        "id": 34,
+        "name": "Nissan",
+        "category": "Suv",
+        "price": "15000"
+    },
+    {
+        "id": 35,
+        "name": "BMW",
+        "category": "Lusso",
+        "price": "45000"
+    },
+
+    {
+        "id": 37,
+        "name": "Mercedez-Benz",
+        "category": "Neopatentato",
+        "price": "2500"
+    },
+    {
+        "id": 38,
+        "name": "Dodge Challenger",
+        "category": "Lusso",
+        "price": "22000"
+    },
+    {
+        "id": 39,
+        "name": "Fiat",
+        "category": "Lusso",
+        "price": "19000"
+    },
+    {
+        "id": 40,
+        "name": "Rolls Royce",
+        "category": "Lusso",
+        "price": "400000"
+    },
+    {
+        "id": 41,
+        "name": "Chevrolet",
+        "category": "Neopatentato",
+        "price": "4700"
+    },
+    {
+        "id": 42,
+        "name": "Dacia",
+        "category": "Suv",
+        "price": "8900"
+    },
+    {
+        "id": 43,
+        "name": "Mustang",
+        "category": "Lusso",
+        "price": "52900"
+    },
+    {
+        "id": 44,
+        "name": "Mini Cooper",
+        "category": "Neopatentato",
+        "price": "3400"
+    },
+    {
+        "id": 45,
+        "name": "Ford",
+        "category": "Neopatentato",
+        "price": "5700"
+    },
+    {
+        "id": 46,
+        "name": "Lamborghini",
+        "category": "Suv",
+        "price": "190000"
+    },
+    {
+        "id": 47,
+        "name": "Toyota",
+        "category": "Van",
+        "price": "15600"
+    },
+    {
+        "id": 48,
+        "name": "Chevrolet",
+        "category": "Neopatentato",
+        "price": "2900"
+    },
+    {
+        "id": 49,
+        "name": "Mercedez-Benz",
+        "category": "Van",
+        "price": "34000"
+    },
+    {
+        "id":50,
+        "name": "Toyota",
+        "category": "Lusso",
+        "price": "150000"
+    }
+]
